@@ -1,0 +1,322 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "image": "Images/1.png",
+      "title": "Understanding React Hooks",
+      "author": "John Doe",
+      "content": "React hooks are a powerful addition to React that allow you to manage state, lifecycle methods, and side effects in functional components.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Jane",
+          "text": "Great article!"
+        },
+        {
+          "id": 2,
+          "author": "hjvhj",
+          "text": "nbjhbj"
+        },
+        {
+          "id": 3,
+          "author": "yes",
+          "text": "m"
+        },
+        {
+          "id": 4,
+          "author": "cjdk",
+          "text": "jdkndk"
+        },
+        {
+          "id": 5,
+          "author": "cn cm",
+          "text": "m cdm "
+        },
+        {
+          "id": 6,
+          "author": "cn",
+          "text": "dm"
+        },
+        {
+          "id": 7,
+          "author": "nc  ",
+          "text": "dk"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "image": "Images/2.png",
+      "title": "JavaScript ES6 Features You Should Know",
+      "author": "Mary Smith",
+      "content": "ES6 introduced a number of useful features such as arrow functions, promises, template literals, and more.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Paul",
+          "text": "Very helpful overview!"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "Images/3.png",
+      "title": "CSS Grid vs Flexbox",
+      "author": "Alex Johnson",
+      "content": "CSS Grid and Flexbox are both powerful layout techniques, but they are suited for different types of layouts. Here's when to use each one.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Sara",
+          "text": "Great comparison between Grid and Flexbox!"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "image": "Images/4.png",
+      "title": "How to Set Up a React Project",
+      "author": "Mike Williams",
+      "content": "Setting up a new React project is easier than ever. Here's a step-by-step guide on how to get started with Create React App.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Leo",
+          "text": "This guide was a lifesaver!"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "image": "Images/5.png",
+      "title": "The Future of Web Development",
+      "author": "Lisa Brown",
+      "content": "Web development is constantly evolving. With the rise of JavaScript frameworks and web standards, the future looks promising for developers.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Tom",
+          "text": "I agree, the future is bright!"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "image": "Images/6.png",
+      "title": "Introduction to TypeScript",
+      "author": "David Green",
+      "content": "TypeScript is a superset of JavaScript that offers type safety. Learn how to start using TypeScript in your projects.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Emily",
+          "text": "Very detailed explanation!"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "image": "Images/7.png",
+      "title": "Building a RESTful API with Node.js",
+      "author": "Karen Lee",
+      "content": "Building APIs with Node.js and Express is straightforward. Learn how to create a basic RESTful API with this simple guide.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Carlos",
+          "text": "This was a very practical tutorial."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "image": "Images/8.png",
+      "title": "Mastering Git and GitHub",
+      "author": "James Turner",
+      "content": "Git and GitHub are essential tools for developers. This guide will help you get comfortable using Git for version control.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Nina",
+          "text": "This tutorial was really helpful!"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "image": "Images/9.png",
+      "title": "React vs Vue: Which is Better?",
+      "author": "Oscar Clark",
+      "content": "Both React and Vue are great JavaScript frameworks, but which one should you choose? Let's break down their strengths and weaknesses.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Henry",
+          "text": "Great comparison between React and Vue!"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "image": "Images/10.png",
+      "title": "How to Optimize Your React App",
+      "author": "Sophia Martinez",
+      "content": "In this article, we'll cover several tips and techniques to improve the performance of your React applications.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Max",
+          "text": "Great tips, I will use these in my next project!"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "image": "Images/11.png",
+      "title": "Understanding JavaScript Promises",
+      "author": "Daniel Scott",
+      "content": "Promises are an essential part of asynchronous JavaScript. Learn how they work and how to use them effectively.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Rachel",
+          "text": "This cleared up a lot of confusion for me!"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "image": "Images/12.png",
+      "title": "A Guide to CSS Animations",
+      "author": "Olivia Perez",
+      "content": "CSS animations can add dynamic effects to your website. Here's a guide to help you get started with basic animations.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Aaron",
+          "text": "I love how simple this guide is!"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "image": "Images/13.png",
+      "title": "Using LocalStorage and SessionStorage in JavaScript",
+      "author": "George Harris",
+      "content": "Learn how to use LocalStorage and SessionStorage for client-side storage in your web applications.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Eve",
+          "text": "Very useful for web apps!"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "image": "Images/14.png",
+      "title": "Introduction to GraphQL",
+      "author": "Paul White",
+      "content": "GraphQL is a query language for APIs. Learn how to use it to query and mutate data in your web applications.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Zoe",
+          "text": "GraphQL is definitely the future!"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "image": "Images/15.png",
+      "title": "The Power of Progressive Web Apps (PWAs)",
+      "author": "Natalie Adams",
+      "content": "Progressive Web Apps combine the best of web and mobile apps. Here's why you should consider building PWAs.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Lucas",
+          "text": "I want to start using PWAs for my projects!"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "image": "Images/16.png",
+      "title": "Building a Real-Time Chat App with Firebase",
+      "author": "Chloe Mitchell",
+      "content": "Firebase is an easy way to add real-time capabilities to your apps. Learn how to build a chat app using Firebase.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Ivy",
+          "text": "This tutorial was fantastic!"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "image": "Images/17.png",
+      "title": "Understanding CORS in Web Development",
+      "author": "Ethan Moore",
+      "content": "Cross-Origin Resource Sharing (CORS) is an important concept for working with APIs. Here's how to handle CORS issues in your web applications.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Maya",
+          "text": "This article helped me fix a CORS error in my project."
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "image": "Images/18.png",
+      "title": "Exploring the New JavaScript Syntax in ES2020",
+      "author": "Benjamin Allen",
+      "content": "ES2020 introduced new features such as optional chaining and nullish coalescing. Learn how to use these new features in your code.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Daniel",
+          "text": "These new features are super handy!"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "image": "Images/19.png",
+      "title": "Using Webpack for Front-End Development",
+      "author": "Grace King",
+      "content": "Webpack is a powerful module bundler. Learn how to set it up and use it in your front-end projects.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Liam",
+          "text": "Webpack can be tricky, but this guide makes it clear."
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "image": "Images/20.png",
+      "title": "Building a Responsive Website with Bootstrap",
+      "author": "Fiona Walker",
+      "content": "Bootstrap is a popular CSS framework for building responsive websites quickly. Learn how to use it for your next project.",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Olivia",
+          "text": "Bootstrap has made responsive design so easy!"
+        }
+      ]
+    },
+    {
+      "id": "7a5c",
+      "title": "Joyce",
+      "content": "Gospel is good https://www.pinterest.com/pin/3729612237559480/",
+      "author": "Mayer",
+      "image": "https://pinterest.com/pin/3729612237559480.png",
+      "comments": []
+    }
+  ]
+}
